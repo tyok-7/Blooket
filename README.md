@@ -1,6 +1,6 @@
 # Blooket-WORK
 # WATCH THIS YOUTUBE VIDEO 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8tyjJD65zws?si=ofNZffp_XWV3-RBK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/embed/8tyjJD65zws?si=ofNZffp_XWV3-RBK
 # THEN CLICK 
 ![image](https://github.com/user-attachments/assets/855c85a3-06b1-4914-bee0-4dee1c5bbbb7)
 # DELETE EVERYTHING THERE AND NOW 
