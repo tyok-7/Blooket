@@ -1,6 +1,6 @@
 # Blooket-WORK
 
-#To find the script click blooket script
+# To find the script click blooket script
 ![image](https://github.com/user-attachments/assets/21659fc3-6be4-4d06-a80a-2272e38f2f2a)
 
 then ![image](https://github.com/user-attachments/assets/4f9e1ae8-c1af-4553-a80e-0645cea9690d)
