@@ -16,4 +16,6 @@ https://www.tampermonkey.net/
 #  then go to your files then double click this ![image](https://github.com/user-attachments/assets/4f9e1ae8-c1af-4553-a80e-0645cea9690d)
 # then on your keyboard hold CTRL + A then it should copy everything then CTRL + C
 
+# Now go to blooket and have fun, if it didnt work join my discord and I will help you
 
+https://discord.gg/qJXjQvKsCB
