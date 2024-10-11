@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Blooket Gui
-// @namespace    http://tampermonkey.net/
+// @namespace    skibsigmas
 // @version      1.4.1
-// @author       Coleman
-// @license      MIT
+// @author       sigma
+// @license      sigma
 // @description  An Updated version of Coleman' blooket cheats. Try not to abuse too many cheats at once or you'll crash.
 // @match        *://*.blooket.com/*
 // @match        *://blooket.com/*
@@ -13,7 +13,7 @@
 
  /**
 * @license MIT
-* Copyright (c) Coleman 2024
+* Copyright (c) skib420 2023
 *
 * You may not reproduce or distribute any code inside this file without the licenser's permission.
 * You may not copy, modify, steal, skid, or recreate any of the code inside this file.
