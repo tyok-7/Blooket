@@ -1,7 +1,11 @@
 # Blooket-WORK
+
 # WATCH THIS YOUTUBE VIDEO 
+
 https://www.youtube.com/embed/8tyjJD65zws?si=ofNZffp_XWV3-RBK
+
 TAMPERMONKEY WEBSITE
+
 https://www.tampermonkey.net/
 # THEN CLICK 
 ![image](https://github.com/user-attachments/assets/855c85a3-06b1-4914-bee0-4dee1c5bbbb7)
