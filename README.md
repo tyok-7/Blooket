@@ -19,3 +19,5 @@ https://www.tampermonkey.net/
 # Now go to blooket and have fun, if it didnt work join my discord and I will help you
 
 https://discord.gg/qJXjQvKsCB
+
+Original by https://github.com/Blooket-Council/Blooket-Cheats
