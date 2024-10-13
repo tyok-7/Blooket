@@ -20,4 +20,4 @@ https://www.tampermonkey.net/
 
 https://discord.gg/qJXjQvKsCB
 
-Original by https://github.com/Blooket-Council/Blooket-Cheats
+# ORIGINAL BY https://github.com/Blooket-Council/Blooket-Cheats ALL I DID IS JUST UPDATE IT FOR THE NEW CHRISTMAS EVENT COMING OUT!
