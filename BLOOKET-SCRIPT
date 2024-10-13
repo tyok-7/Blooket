@@ -4,7 +4,7 @@
 // @version      1.4.1
 // @author       Coleman
 // @license      MIT
-// @description  An Updated version of Coleman' blooket cheats. Try not to abuse too many cheats at once or you'll crash.
+// @description  An Updated version of Konz' blooket cheats. Try not to abuse too many cheats at once or you'll crash.
 // @match        *://*.blooket.com/*
 // @match        *://blooket.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=blooket.com
@@ -13,7 +13,7 @@
 
  /**
 * @license MIT
-* Copyright (c) Coleman 2024
+* Copyright (c) Konz 2024
 *
 * You may not reproduce or distribute any code inside this file without the licenser's permission.
 * You may not copy, modify, steal, skid, or recreate any of the code inside this file.
